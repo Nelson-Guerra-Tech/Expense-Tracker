@@ -9,6 +9,10 @@
     "antd": "^4.21.5",
     "aos": "^2.3.4",
     "axios": "^0.27.2",
+    "bootstrap": "^5.2.0-beta1",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.3",
+    "nodemon": "^2.0.19",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-redux": "^8.0.2",
@@ -40,5 +44,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nelson-Guerra-Tech/Expense-Tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nelson-Guerra-Tech/Expense-Tracker/issues"
+  },
+  "homepage": "https://github.com/Nelson-Guerra-Tech/Expense-Tracker#readme"
 }
