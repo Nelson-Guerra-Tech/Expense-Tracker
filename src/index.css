@@ -9,3 +9,11 @@
 body {
   font-family: 'Roboto', sans-serif !important;
 }
+
+.primary {
+  background-color: lightblue;
+  padding: 5px 20px;
+  color: rgb(39, 39, 39);
+  border-radius: 20px;
+  border: none;
+}
