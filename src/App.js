@@ -1,5 +1,5 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import 'antd/dist/antd.css';
+import 'antd/dist/antd.min.css';
 
 // importing AOS
 import React, { useEffect } from 'react';
