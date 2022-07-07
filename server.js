@@ -3,5 +3,5 @@ const dbConnect = require('./dbConnect');
 const app = express();
 const port = 3003;
 
-app.get('/', (req, res) => res.send('Hello World'));
+app.get('/', (req, res) => res.send('🟢 Server Connected'));
 app.listen(port, () => console.log(`Node Js server started at ${port}`));
